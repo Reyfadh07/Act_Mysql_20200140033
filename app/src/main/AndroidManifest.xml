@@ -2,9 +2,10 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.act_mysql_20200140033">
 
-    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.INTERNET" />
 
     <application
+        android:name=".app.AppController"
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
@@ -12,11 +13,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Act_Mysql_20200140033"
         android:usesCleartextTraffic="true">
-
+        <activity
+            android:name=".EditTeman"
+            android:exported="true" />
         <activity
             android:name=".TambahTeman"
             android:exported="true" />
-
         <activity
             android:name=".MainActivity"
             android:exported="true">

@@ -3,9 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Raihan/AndroidStudioProjects/Act_Mysql_20200140033/app/src/main/res/layout/activity_edit_teman.xml" value="0.1757852077001013" />
         <entry key="..\:/Users/Raihan/AndroidStudioProjects/Act_Mysql_20200140033/app/src/main/res/layout/activity_main.xml" value="0.2164855072463768" />
         <entry key="..\:/Users/Raihan/AndroidStudioProjects/Act_Mysql_20200140033/app/src/main/res/layout/activity_tambah_teman.xml" value="0.2164855072463768" />
         <entry key="..\:/Users/Raihan/AndroidStudioProjects/Act_Mysql_20200140033/app/src/main/res/layout/row_data_teman.xml" value="0.2164855072463768" />
+        <entry key="..\:/Users/Raihan/AndroidStudioProjects/Act_Mysql_20200140033/app/src/main/res/menu/popup1.xml" value="0.27314814814814814" />
       </map>
     </option>
   </component>
